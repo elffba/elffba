@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Javascript, React Native and Unity**
 
-- For more here is my website [https://www.elifbaserinfo.com](https://www.elifbaserinfo.com)
-
 - I'm student at **Dokuz Eylül University / Computer Engineering**
+
+- For more here is my website [https://www.elifbaserinfo.com](https://www.elifbaserinfo.com)
 
 - 📫 How to reach me **elifbaser.cs@gmail.com**
 
