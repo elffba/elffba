@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif</h1>
 <h3 align="center">I'm passionate about learning things in back-end and front-end</h3>
 
-- 🌱 I’m currently learning **Javascript and React **
+- 🌱 I’m currently learning **Javascript and React**
 
 - I'm student at **Dokuz Eylül University / Computer Engineering**
 
