@@ -17,17 +17,6 @@ I am a 4th year Computer Engineering student at Dokuz Eylül University, with a 
 
 ---
 
-###  Projects
-
-- 🔸 [**Blog Battle**](https://github.com/elffba/blog-battle-project): Full-stack MERN voting platform for user-generated blog post competitions with JWT-based authentication.
-
-- 🔸 [**Byte § Bite**](https://github.com/elffba/restaurant-management): Restaurant order and inventory system with secure session handling and dynamic menu management.
-
-- 🔸 [**DEU POG Website**](https://github.com/elffba/pog-website): Website created for a school club using Notion API and modern JS frameworks.
-
-- 🔸 [**My Personal Website**](https://github.com/elffba/new-website): A portfolio website showcasing my work and skills.
-
----
 
 ### Tech Stack
 
