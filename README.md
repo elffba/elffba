@@ -22,4 +22,4 @@ currently: mobile  & applied ai.
 
 ---
 
-[elifbaserinfo.com](https://elifbaserinfo.com) · [linkedin](https://linkedin.com/in/elifbaser) · [resume](./elif-baser-cv-2.pdf) · elifbaser.cs@gmail.com
+[elifbaserinfo.com](https://elifbaserinfo.com) · [linkedin](https://linkedin.com/in/elifbaser) · [resume](./elifbaser-cv-2.pdf) · elifbaser.cs@gmail.com
