@@ -1,7 +1,7 @@
-# hi, i'm elif ✦
+# hi, i'm elif 
 
-i like picking up things i don't know yet and building something with them.  
-currently: mobile, backend & applied ai.
+i like picking up things i don't know well and building something with them.  
+currently: mobile  & applied ai.
 
 ---
 
@@ -22,4 +22,4 @@ currently: mobile, backend & applied ai.
 
 ---
 
-[elifbaserinfo.com](https://elifbaserinfo.com) · [linkedin](https://linkedin.com/in/elifbaser) · [resume](./elif-baser-cv.pdf) · elifbaser.cs@gmail.com
+[elifbaserinfo.com](https://elifbaserinfo.com) · [linkedin](https://linkedin.com/in/elifbaser) · [resume](./elif-baser-cv-2.pdf) · elifbaser.cs@gmail.com
